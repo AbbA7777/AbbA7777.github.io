@@ -1,0 +1,61 @@
+body {
+    background-color: beige;
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: lightblue;
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: lightblue;
+    font-size: 1.8rem;
+    margin-top: 20px;
+}
+
+p {
+    color: black;
+    font-size: 1rem;
+    margin: 10px 0;
+}
+
+a {
+    color: coral;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+b, strong {
+    color: gold;
+    font-weight: bold;
+}
+
+hr {
+    border: 1px solid silver;
+    margin: 20px 0;
+}
+
+button {
+    background-color: lightgreen;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: palegreen;
+}
+
+
